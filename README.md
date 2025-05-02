@@ -1,5 +1,5 @@
 ## Hello world, I'am Jihad Al Qudsi 👋
-![jihad](img/github-header-image.png)
+![jihad](github-header-image.png)
 
 #### 💻 Tech Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
