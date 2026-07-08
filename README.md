@@ -31,15 +31,7 @@
 
 ---
 
-## 📌 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🐍 [Game Snake Sederhana](https://github.com/hadzxcode/game-snake-sederhana) | Snake Game menggunakan HTML5 Canvas dan JavaScript. |
-| 📚 [Playlist JavaScript Dasar](https://github.com/hadzxcode/playlist-javascript-dasar) | Kumpulan latihan JavaScript dasar untuk pemula. |
-| 🌐 Portfolio Website | Website portfolio pribadi. *(Coming Soon)* |
-
----
 
 ## 📊 GitHub Stats
 
