@@ -16,8 +16,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Information Systems Student
-- 💻 Passionate about Frontend Web Development
-- 🌱 Currently learning **JavaScript**, **PHP**, and **Laravel**
+- 💻 Passionate about Frontend Web Development and Data Analyst
+- 🌱 Currently learning **JavaScript**, **PHP**, and **Python**
 - 🚀 Love building simple, useful, and responsive web applications
 - 📍 Indonesia
 
@@ -68,13 +68,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hadzxcode&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
 
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/hadzxcode/hadzxcode/output/github-contribution-grid-snake-dark.svg" />
-</p>
+
 
 ---
 
@@ -85,11 +81,11 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/hadzxcode">
+<a href="https://instagram.com/jhdalqdsii">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:jihadalqudsi01@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
