@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hadzxcode/hadzxcode/main/github-header-image.png" alt="Banner" width="100%">
-</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Jihad Al Qudsi</h1>
