@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="github-header-image.png" alt="Banner" width="100%">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Jihad Al Qudsi</h1>
 <h3 align="center">Frontend Developer | Information Systems Student</h3>
 
@@ -5,9 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;Information+Systems+Student;JavaScript+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="github-header-image.png" alt="Banner" width="100%">
-</p>
 
 ---
 
@@ -24,7 +26,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,linux,debian,windows" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,linux,windows,python,java" />
 </p>
 
 ---
