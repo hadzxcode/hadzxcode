@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://media.tenor.com/8N0jLQqV9tAAAAAC/anime.gif" width="220">
+  <img src="https://media.tenor.com/0M6X7M6vB3QAAAAC/anime-wave.gif" width="250">
 </p>
 
 <h1 align="center">Hi 👋, I'm Jihad Al Qudsi</h1>
