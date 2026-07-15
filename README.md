@@ -1,4 +1,6 @@
-<div class="tenor-gif-embed" data-postid="21599707" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707">Coding Typing GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
+</p>
 
 <h1 align="center">Hi 👋, I'm Jihad Al Qudsi</h1>
 <h3 align="center">Frontend Developer | Information Systems Student</h3>
