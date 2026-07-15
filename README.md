@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/anime-computer.gif" width="250">
+</p>
 
 <h1 align="center">Hi 👋, I'm Jihad Al Qudsi</h1>
 <h3 align="center">Frontend Developer | Information Systems Student</h3>
