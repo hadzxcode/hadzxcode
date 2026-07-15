@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="250">
 </p>
 
 <h1 align="center">Hi 👋, I'm Jihad Al Qudsi</h1>
