@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/0M6X7M6vB3QAAAAC/anime-wave.gif" width="250">
+  <img src="[https://media.tenor.com/0M6X7M6vB3QAAAAC/anime-wave.gif](https://tenor.com/id/view/coding-typing-pc-laptop-power-gif-21599707)" width="250">
 </p>
 
 <h1 align="center">Hi 👋, I'm Jihad Al Qudsi</h1>
