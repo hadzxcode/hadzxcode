@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=jihadalqudsi&theme=onedark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:00e5ff,100:7c3aed&text=HADZXCODE&fontColor=ffffff&fontSize=55&fontAlignY=40"/>
