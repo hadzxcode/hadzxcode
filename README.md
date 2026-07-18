@@ -149,15 +149,8 @@ Learning. Building. Improving.
 Code • Learn • Improve • Repeat
 ```
 
----
 
-## 🐍 Contribution Snake
 
-> Aktifkan GitHub Action Snake terlebih dahulu.
-
-```md
-https://raw.githubusercontent.com/hadzxcode/hadzxcode/output/github-contribution-grid-snake-dark.svg
-```
 
 ---
 
