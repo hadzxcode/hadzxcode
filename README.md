@@ -9,6 +9,15 @@
 
 <br>
 
+<!-- ============ [BARU] HUD TITLE ============ -->
+<div align="center">
+
+<img src="hud-title.svg" width="100%" alt="Built by those who code" />
+
+</div>
+
+<br>
+
 <!-- ============ MASCOT + TERMINAL ============ -->
 <!-- CATATAN: kalau maskot hilang, ganti src di bawah sesuai lokasi file SVG kamu di repo -->
 <table align="center">
@@ -80,6 +89,23 @@
 
 └─$ _
 ```
+
+<br>
+
+<!-- ============ [BARU] CREW + ROADMAP + BOOT LOG ============ -->
+<div align="center">
+
+<img src="scan-divider.svg" width="100%" alt="divider" />
+
+<img src="hud-cards.svg" width="100%" alt="The crew" />
+
+<img src="hud-roadmap.svg" width="100%" alt="Roadmap" />
+
+<img src="scan-divider.svg" width="100%" alt="divider" />
+
+<img src="boot-log.svg" width="100%" alt="Boot log" />
+
+</div>
 
 <br>
 
