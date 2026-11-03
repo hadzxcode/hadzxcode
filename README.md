@@ -14,7 +14,7 @@
 <table align="center">
 <tr>
 <td width="280" align="center">
-  <img src="assets/cat-bot-3d.svg" width="260" alt="Cat Bot Mascot" />
+  <img src="cat-bot-3d.svg" width="260" alt="Cat Bot Mascot" />
 </td>
 <td>
 
@@ -39,26 +39,7 @@
 
 <br>
 
-<!-- ============ TECH STACK ============ -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ff1e3c,100:0d1117&height=3" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1500&color=FF2E4D&center=true&vCenter=true&width=600&height=60&lines=%3E+.%2Ftech_stack.sh;%3E+loading+weapons...+%E2%9A%94%EF%B8%8F" alt="Tech Stack" />
-
-<br>
-
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff2e4d" />
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=ff2e4d" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ff2e4d" />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=ff2e4d" />
-<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ff2e4d" />
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff2e4d" />
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ff2e4d" />
-
-</div>
-
-<br>
 
 <!-- ============ FEATURED PROJECT ============ -->
 <div align="center">
@@ -73,9 +54,9 @@
 ┌──(hadzxcode㉿cat-bot)-[~/projects/sorsinggih]
 └─$ ./info.sh
 
-  [ PROJECT ]  SorSinggih
-  [ ABOUT   ]  Web app for learning the Balinese language 🌴
-  [ STACK   ]  HTML • CSS • JavaScript • Node.js/Express • Gemini AI
+  [ PROJECT ]  Anu bang 
+  [ ABOUT   ] Anu pokoknya
+  [ STACK   ]  Anu
   [ STATUS  ]  ● ONLINE — still building, still improving
 
 └─$ _
@@ -83,25 +64,7 @@
 
 <br>
 
-<!-- ============ STATS ============ -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ff1e3c,100:0d1117&height=3" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1500&color=FF2E4D&center=true&vCenter=true&width=600&height=60&lines=%3E+git+log+--stat;%3E+scanning+activity..." alt="GitHub Stats" />
-
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hadzxcode&show_icons=true&title_color=ff2e4d&icon_color=ff2e4d&text_color=ffffff&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadzxcode&layout=compact&title_color=ff2e4d&text_color=ffffff&hide_border=true&bg_color=0d1117" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadzxcode&theme=dark&hide_border=true&background=0d1117&ring=ff2e4d&fire=ff2e4d&currStreakLabel=ff2e4d" />
-
-</div>
-
-<br>
 
 <!-- ============ FOOTER ============ -->
 <div align="center">
