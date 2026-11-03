@@ -64,10 +64,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
+<!--
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=hadzxcode&show_icons=true&title_color=ff2e4d&icon_color=ff2e4d&text_color=ffffff&hide_border=true&bg_color=0d1117" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadzxcode&layout=compact&title_color=ff2e4d&icon_color=ff2e4d&text_color=ffffff&hide_border=true&bg_color=0d1117" />
-
+-->
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadzxcode&theme=dark&hide_border=true&background=0d1117&ring=ff2e4d&fire=ff2e4d&currStreakLabel=ff2e4d" />
