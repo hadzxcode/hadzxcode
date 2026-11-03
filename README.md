@@ -14,7 +14,7 @@
 <table align="center">
 <tr>
 <td width="280" align="center">
-  <img src="cat-bot-3d.svg" width="260" alt="Cat Bot Mascot" />
+  <img src="cat-bot-3d-putih.svg" width="260" alt="Cat Bot Mascot" />
 </td>
 <td>
 
