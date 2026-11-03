@@ -97,7 +97,7 @@
 
 <img src="scan-divider.svg" width="100%" alt="divider" />
 
-<img src="hud-cards.svg" width="100%" alt="The crew" />
+<!-- <img src="hud-cards.svg" width="100%" alt="The crew" /> -->
 
 <img src="hud-roadmap.svg" width="100%" alt="Roadmap" />
 
