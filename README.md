@@ -14,7 +14,7 @@
 
 <img src="hud-title.svg" width="100%" alt="Built by those who code" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&weight=600&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jihad+Al+Qudsi+%F0%9F%91%8B;Frontend+Developer+%7C+IS+Student;Building+modern+web+with+clean+code;sudo+make+it+awesome+%F0%9F%90%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&weight=600&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jihad+Al+Qudsi;Frontend+Developer+%7C+IS+Student;Building+modern+web+with+clean+code;sudo+make+it+awesome+%F0%9F%90%B1" alt="Typing SVG" />
 
 </div>
 
