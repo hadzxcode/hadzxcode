@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff1e3c,100:8b0000&height=200&section=header&text=HADZXCODE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%5B%20hacker%20x%20anime%20%5D&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff1e3c,100:8b0000&height=200&section=header&text=HADZXCODE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%5B%20turu%20x%20vibe%20%5D&descAlignY=58&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF2E4D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jihad+Al+Qudsi+%F0%9F%91%8B;Frontend+Developer+%7C+IS+Student;Building+modern+web+with+clean+code;sudo+make+it+awesome+%F0%9F%90%B1" alt="Typing SVG" />
 
