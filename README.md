@@ -1,54 +1,36 @@
-
-
+<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:00e5ff,100:7c3aed&text=HADZXCODE&fontColor=ffffff&fontSize=55&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff1e3c,100:8b0000&height=200&section=header&text=HADZXCODE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%5B%20hacker%20x%20anime%20%5D&descAlignY=58&descSize=18" width="100%" />
 
-# 👋 Hi, I'm Jihad Al Qudsi
-
-### Frontend Developer • Information Systems Student
-
-Building modern web experiences with clean code, creative design, and continuous learning.
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=hadzxcode&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF2E4D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jihad+Al+Qudsi+%F0%9F%91%8B;Frontend+Developer+%7C+IS+Student;Building+modern+web+with+clean+code;sudo+make+it+awesome+%F0%9F%90%B1" alt="Typing SVG" />
 
 </div>
 
----
+<br>
 
-## 🌌 About Me
-
-<table>
+<!-- ============ MASCOT + TERMINAL ============ -->
+<table align="center">
 <tr>
-<td width="60%">
-
-```yaml
-Name      : Jihad Al Qudsi
-Username  : hadzxcode
-Role      : Frontend Developer
-Education : Information Systems Student
-Location  : Indonesia
-
-Currently Learning:
-  - JavaScript
-  - PHP
-  - Python
-  - Laravel
-
-Interests:
-  - Web Development
-  - UI/UX Design
-  - Data Analysis
-  - Open Source
-```
-
+<td width="280" align="center">
+  <img src="assets/cat-bot-3d.svg" width="260" alt="Cat Bot Mascot" />
 </td>
+<td>
 
-<td align="center">
+```bash
+┌──(hadzxcode㉿cat-bot)-[~]
+└─$ cat about.txt
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220">
+  Name     : Jihad Al Qudsi
+  Username : hadzxcode
+  Role     : Frontend Developer
+  Study    : Information Systems
+  Learning : Java ☕
+  Motto    : "Clean code, creative design,
+              continuous learning."
+
+└─$ _
+```
 
 </td>
 </tr>
@@ -56,118 +38,50 @@ Interests:
 
 ---
 
-## 🚀 Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,python,mysql,git,github,vscode,linux,windows,java&perline=7" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Project
+
+> **SorSinggih** — a web app for learning the Balinese language 🌴
+> Built with HTML, CSS, JavaScript, Node.js/Express, and Gemini AI.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/hadzxcode">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hadzxcode&show_icons=true&title_color=ff2e4d&icon_color=ff2e4d&text_color=ffffff&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadzxcode&layout=compact&title_color=ff2e4d&icon_color=ff2e4d&text_color=ffffff&hide_border=true&bg_color=0d1117" />
 
-<a href="https://instagram.com/jhdalqdsii">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<br>
 
-<a href="mailto:jihadalqudsi01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadzxcode&theme=dark&hide_border=true&background=0d1117&ring=ff2e4d&fire=ff2e4d&currStreakLabel=ff2e4d" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
-
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hadzxcode&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hadzxcode&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hadzxcode&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
-</div>
-
----
-
-## 💼 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🛒 Cashier Data Ingestion | Real-time transaction processing simulation using Python |
-| 🏨 Hotel Reservation System | Reservation management application |
-| 🌐 Personal Portfolio | Responsive personal website |
-| 📊 Data Analysis Project | Data processing and visualization practice |
-
----
-
-## 💻 Terminal
-
-```console
-> whoami
-
-Jihad Al Qudsi
-
-> role
-
-Frontend Developer
-
-> status
-
-Learning. Building. Improving.
-
-> motto
-
-Code • Learn • Improve • Repeat
+```text
+[ system ] cat-bot online... status: coding 24/7 🐾
 ```
 
-
-
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Building modern digital experiences.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0f172a,50:00e5ff,100:7c3aed"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:ff1e3c,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
