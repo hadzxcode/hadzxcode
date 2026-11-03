@@ -39,7 +39,7 @@
 
 <br>
 
-
+<!-- ============ TECH STACK ============ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ff1e3c,100:0d1117&height=3" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1500&color=FF2E4D&center=true&vCenter=true&width=600&height=60&lines=%3E+.%2Ftech_stack.sh;%3E+loading+weapons...+%E2%9A%94%EF%B8%8F" alt="Tech Stack" /> <br> <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff2e4d" /> <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=ff2e4d" /> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ff2e4d" /> <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=ff2e4d" /> <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ff2e4d" /> <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff2e4d" /> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ff2e4d" /> </div> <br>
 
 <!-- ============ FEATURED PROJECT ============ -->
 <div align="center">
