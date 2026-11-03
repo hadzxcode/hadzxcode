@@ -54,12 +54,12 @@
 
 ---
 
-## 🚀 Featured Project
+<!-- ## 🚀 Featured Project 
 
 > **SorSinggih** — a web app for learning the Balinese language 🌴
 > Built with HTML, CSS, JavaScript, Node.js/Express, and Gemini AI.
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
